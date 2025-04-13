@@ -1,0 +1,3 @@
+[submodule "Khaos/vendor/spdlog"]
+	path = Khaos/vendor/spdlog
+	url = https://github.com/gabime/spdlog
